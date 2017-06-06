@@ -1,1 +1,0 @@
-secret=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
